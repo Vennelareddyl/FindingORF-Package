@@ -1,0 +1,11 @@
+Package: FindingORF
+Type: Package
+Title: Finds open reading frames in a given sequence
+Version: 0.1.0
+Author: vennelareddy
+Maintainer: vennela reddy <vennelareddyl@usf.edu>
+Description:This pacakge has function that can read the open reading frames in
+            the given sequence which helps further in the transltion process.
+License: CCO
+Encoding: UTF-8
+LazyData: true
